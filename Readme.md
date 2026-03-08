@@ -5,3 +5,4 @@ Day 4 of Web Dev<br>
 Day 5 of Web Dev<br>
 Day 6 of Web Dev<br>
 Day 7 of Web Dev<br>
+Day 8 of Web Dev<br>
